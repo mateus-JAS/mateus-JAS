@@ -1,5 +1,9 @@
-## Hi there 👋
+## 👋 Oi sou Mateus Jesus 👋
+-👨‍🎓Estudando Desenvolvimento de Sistemas com foco em python.
 
+-📖 Me preparando para o futuro.
+
+-📱 contato: mateusberine@oulook.com
 <!--
 **mateus-JAS/mateus-JAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
