@@ -1,5 +1,5 @@
 ## 👋 Oi sou Mateus Jesus 👋
--👨‍🎓Estudando Desenvolvimento de Sistemas com foco em python.
+-👨‍🎓Estudando Desenvolvimento de Sistemas com foco em python, HTML e CSS.
 
 -📖 Me preparando para o futuro.
 
